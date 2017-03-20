@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>RemoveUnusedImages</name>
+    <type>edit</type>
+    <author>Yuri Astrov</author>
+    <description>Plugin for remove unused images.</description>
+    <engine>python3.4</engine>
+    <version>0.1.0</version>
+    <oslist>osx,win,unx</oslist>
+    <autostart>true</autostart>
+    <autoclose>false</autoclose>
+</plugin>
